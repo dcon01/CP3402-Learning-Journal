@@ -18,6 +18,7 @@ Other: I picked a dog walking startup in hopes I maybe can make a website \ serv
 
 
 
+
 Template
 Week:
 Learning Activities:
