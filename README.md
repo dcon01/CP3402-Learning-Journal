@@ -25,7 +25,7 @@ Learning Activities: Kali Linux Tutorial section 04
 
 Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
 
-Estimated Hours: 1.54hours
+Estimated Hours: 1hours
 
 Content Insights: Linux basics, terminal commands, navigating DIR, adding removing updating \ upgrading software, apt. very enjoyable and it was nice to use some of the commands I learned on scotch box.
 
@@ -34,6 +34,38 @@ Career/Employability/Learning Insights: I've wanted to learn Linux for quite som
 Other: vagrant / Scotchbox / ngrok research, I spent a lot of time fault finding various issues while trying to get my local deployment done. I spent 6 hours on Saturday and 6 hours on Sunday simply getting the local environment on my laptop. although it was quite stressful, I learned quite a lot and can see the huge benefits of running a local webserver and I am happy I used vagrant and scotch box. Hopefully now that it is now running, I can spend more time focusing on improving my CMS sites.
 
 
+Week 03:
+
+Learning Activities: Kali Linux Tutorial section 04
+
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
+
+Estimated Hours: 54 minutes
+
+
+Content Insights: A LEarning Linux basics  mostly Admin features and tools
+
+Career/Employability/Learning Insights: Linux is used alot in the inductry and it will be good to have the basics
+
+
+
+Week 04:
+
+Learning Activities: This week I am setting up my Kali linux enviroment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux"
+Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners
+Estimated Hours:1.5 hours
+Content Insights: Lali linux is well used accross the industry and the hacking tools and conecpts will be a great toolset for me to add 
+Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry
+
+Week 05
+
+Learning Activities: I am following up on last week setting up my test enviroment with KAli etc. (I underestimated how long it would take(3 hours last week))
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
+Estimated Hours: 2 hours
+Content Insights: Lali linux is well used accross the industry and the hacking tools and conecpts will be a great toolset for me to add 
+Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry
+
+Week 06
 
 
 Template
