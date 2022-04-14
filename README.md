@@ -66,7 +66,11 @@ Content Insights: Lali linux is well used accross the industry and the hacking t
 Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry
 
 Week 06
-
+Learning Activities: installing 'metasploitable' and learning how to use kali against it.
+Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners
+Estimated Hours: 1 hour
+Content Insights: metasploitable is a os which is left vulnerable and open to be hacked using the tools on kali linux
+Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry 
 
 Template
 Week:
