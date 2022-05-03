@@ -73,6 +73,14 @@ Content Insights: metasploitable is a os which is left vulnerable and open to be
 Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry 
 
 Template
+Week: 10
+Learning Activities: PHP 
+Resources/Links: https://www.youtube.com/watch?v=WYufSGgaCZ8&ab_channel=QuickProgramming https://www.php.net
+Estimated Hours: 1.5
+Content Insights: PHP login system with DB, My PHP was not up to scracth so I decided to take some time out to expand my knowledge. 
+Career/Employability/Learning Insights: PHP and databases are used widely in the industry
+
+Template
 Week:
 Learning Activities:
 Resources/Links:
