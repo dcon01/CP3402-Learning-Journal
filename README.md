@@ -77,13 +77,13 @@ Week: 06
 
 Learning Activities: Group setup
 
-Resources/Links: 
+Resources/Links: N/A
 
-Estimated Hours:
+Estimated Hours: N/A
 
-Content Insights:
+Content Insights: N/A
 
-Career/Employability/Learning Insights:
+Career/Employability/Learning Insights: N/A
 
 Week: 07
 
@@ -102,10 +102,10 @@ Week: 08
 
 Learning Activities: N/A
 
-Resources/Links:
-Estimated Hours:
-Content Insights:
-Career/Employability/Learning Insights:
+Resources/Links:N/A
+Estimated Hours: N/A
+Content Insights: N/A
+Career/Employability/Learning Insights: N/A
 
 
 Week: 09 
@@ -120,10 +120,18 @@ Content Insights: I enjoyed learning and putting what I learned in to the log in
 
 Career/Employability/Learning Insights: At first I could not see the benifit of using SASS but as I started to impliment it I could see the benifits and would really like to do it on a larger scale website.
 
-Template
-Week:
-Learning Activities:
-Resources/Links:
-Estimated Hours:
-Content Insights:
-Career/Employability/Learning Insights:
+Week: 10
+Learning Activities: N/A
+Resources/Links: N/A
+Estimated Hours: N/A
+Content Insights: N/A
+Career/Employability/Learning Insights: N/A
+
+Week: 11
+Learning Activities: N/A
+Resources/Links: N/A
+Estimated Hours: N/A
+Content Insights: N/A
+Career/Employability/Learning Insights: N/A
+
+
