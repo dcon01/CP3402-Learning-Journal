@@ -38,7 +38,7 @@ Week 03:
 
 Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and wordpress
 
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners https://aws.amazon.com/lightsail/projects/wordpress/
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners https://aws.amazon.com/lightsail/projects/wordpress/ 
 
 Estimated Hours: 54 minutes
 
@@ -48,28 +48,29 @@ Career/Employability/Learning Insights: Linux is used alot in the industry and s
 
 Week 04:
 
-Learning Activities: This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time expeimenting with USB webserver and XAMMP
+Learning Activities: This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time experimenting with USB webserver and XAMMP and managed to load wordpress on to XAMPP using the my SQL database
 
-Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners, https://www.apachefriends.org/index.html https://www.usbwebserver.net/webserver/
+Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners, https://www.apachefriends.org/index.html https://www.usbwebserver.net/webserver/ https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
 Estimated Hours:1.5 hours
 
-Content Insights: Setting up the kali linux environment gives me more experience with virtual machines the and linux environment. It was dun using the usb webserver but I feel XAMMP was the better product to use for what I want to achieve.
+Content Insights: Setting up the kali linux environment gives me more experience with virtual machines and the linux environment. It was dun using the usb webserver but I feel XAMMP was the better product to use for what I want to achieve.
 
-Career/Employability/Learning Insights: Virtual machines and the linux OS are widely used, I enjoyed watching the videos and implementing what I learned. 
+Career/Employability/Learning Insights: Virtual machines and the linux OS are widely used, I enjoyed watching the videos and implementing what I learned. I enjoyed reading the tutorial  on XAMMP and wordpress it made setting up  the local development environment a breeze.
+
 
 
 Week 05
 
-Learning Activities: I am following up on last week setting up my test environment with Kali etc. (I underestimated how long it would take(3 hours last week)). I carried out a lot of work on my local deployment watching various videos and choosing XAMPP
+Learning Activities: I am following up on last week setting up my test environment with Kali etc. i am also working on Child themes for word press and I have been reviewing some documentation
 
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners, https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/, https://themeisle.com/blog/install-xampp-and-wordpress-locally/
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners, https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/,  https://developer.wordpress.org/themes/advanced-topics/child-themes/
 
 Estimated Hours: 2 hours
 
-Content Insights: I had some issues with setting up metasploitable which I finally overcame, I can feel my linux commands improving and I feel my confidence growing using linux terminal. I managed to set up XAMPP and word press very easily and enjoyed the easy process. 
+Content Insights: I had some issues with setting up metasploitable which I finally overcame, I can feel my linux commands improving and I feel my confidence growing using linux terminal. I played around with alot of CSS elements that I had not known about before.
 
-Career/Employability/Learning Insights: Setting up local development deployments and using linux terminal confidently will greatly help me in future roles
+Career/Employability/Learning Insights:I quite enjoyed modifying the .css from inside the browser, trying new things anmd watcing the outcomes.
 
 
 
