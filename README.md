@@ -73,31 +73,50 @@ Content Insights: I had some issues with setting up metasploitable which I final
 Career/Employability/Learning Insights:I quite enjoyed modifying the .css from inside the browser, trying new things anmd watcing the outcomes.
 
 
+Week: 06
 
+Learning Activities: Group setup
 
+Resources/Links: 
 
-Week: 09
+Estimated Hours:
 
-Learning Activities:  I watched a lot of videos in regards to php and decided to create my own log in system with sql lite. I had to teach myself PHP as I never used it before.
+Content Insights:
+
+Career/Employability/Learning Insights:
+
+Week: 07
+
+Learning Activities: I am new to PHP so I watched read a lot of info in regards to PHP. 
 
 Resources/Links: https://www.simplilearn.com/tutorials/php-tutorial/php-login-form https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.
 
 Estimated Hours: 1.5
 
-Content Insights: I had to learn and impliment PHP as I was going as I did not use it before. I enjoyed watching videos and implimenting the system as I go.
+Content Insights: I decided to update the advice shop page with a log in system so I had to learn and impliment PHP as I was going as I did not use it before. I enjoyed watching videos and implimenting the system as I go but I did struggle a bit with getting my head around it. 
 
 Career/Employability/Learning Insights: PHP and databases are used widely in the industry I enjoyed learning PHP and would really like to add to this log in system maybe add a menu next
 
 
-Week: 10 
+Week: 08
 
-Learning Activities: I watched some videos and read websites in regards to SASS and added to my login system from the previous prac 
+Learning Activities: N/A
+
+Resources/Links:
+Estimated Hours:
+Content Insights:
+Career/Employability/Learning Insights:
+
+
+Week: 09 
+
+Learning Activities: I watched some videos and read websites in regards to SASS, I watched a lot of videos in regards to php and decided to create my own log in system to familiarise myself with PHP a little more while also adding SASS.
 
 Resources/Links: https://www.w3schools.com/sass/sass_extend.php https://sass-lang.com/documentation/style-rules/declarations
 
-Estimated Hours: 1.5 hrs
+Estimated Hours: 3.5 hrs
 
-Content Insights: I enjoyed learning and putting what I learned in to the log in system.
+Content Insights: I enjoyed learning and putting what I learned in to the log in system and implimenting  SASS.
 
 Career/Employability/Learning Insights: At first I could not see the benifit of using SASS but as I started to impliment it I could see the benifits and would really like to do it on a larger scale website.
 
