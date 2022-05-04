@@ -73,12 +73,30 @@ Content Insights: metasploitable is a os which is left vulnerable and open to be
 Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry 
 
 Template
-Week: 10
-Learning Activities: PHP 
-Resources/Links: https://www.youtube.com/watch?v=WYufSGgaCZ8&ab_channel=QuickProgramming https://www.php.net
+Week: 09
+
+Learning Activities:  I watched a lot of videos in regards to php and decided to create my own log in system with sql lite. I had to teach myself PHP as I never used it before.
+
+Resources/Links: https://www.simplilearn.com/tutorials/php-tutorial/php-login-form https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.
+
 Estimated Hours: 1.5
-Content Insights: PHP login system with DB, My PHP was not up to scracth so I decided to take some time out to expand my knowledge. 
-Career/Employability/Learning Insights: PHP and databases are used widely in the industry
+
+Content Insights: I had to learn and impliment PHP as I was going as I did not use it before. I enjoyed watching videos and implimenting the system as I go.
+
+Career/Employability/Learning Insights: PHP and databases are used widely in the industry I enjoyed learning PHP and would really like to add to this log in system maybe add a menu next
+
+
+Week: 10 
+
+Learning Activities: I watched some videos and read websites in regards to SASS and added to my login system from the previous prac 
+
+Resources/Links: https://www.w3schools.com/sass/sass_extend.php https://sass-lang.com/documentation/style-rules/declarations
+
+Estimated Hours: 1.5 hrs
+
+Content Insights: I enjoyed learning and putting what I learned in to the log in system.
+
+Career/Employability/Learning Insights: At first I could not see the benifit of using SASS but as I started to impliment it I could see the benifits and would really like to do it on a larger scale website.
 
 Template
 Week:
