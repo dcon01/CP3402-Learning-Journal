@@ -21,58 +21,60 @@ Other: I picked a dog walking startup in hopes I maybe can make a website \ serv
 
 Week: 02
 
-Learning Activities: Kali Linux Tutorial section 04
+Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and joomla 
 
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners https://geekflare.com/lightsail-hosting-joomla/ 
 
 Estimated Hours: 1hours
 
 Content Insights: Linux basics, terminal commands, navigating DIR, adding removing updating \ upgrading software, apt. very enjoyable and it was nice to use some of the commands I learned on scotch box.
 
-Career/Employability/Learning Insights: I've wanted to learn Linux for quite some time now, very happy to be learning it and putting it in to practice as it is used a lot in the industry
+Career/Employability/Learning Insights: I've wanted to learn Linux for quite some time now, very happy to be learning it and putting it in to practice as it is used a lot in the industry. I found AWS lightsale very easy to set up anmd my joomla site uploaded without any issues. It was great to put some of the linux commands I have been learning to use in another prtoject \ enviroment
 
 Other: vagrant / Scotchbox / ngrok research, I spent a lot of time fault finding various issues while trying to get my local deployment done. I spent 6 hours on Saturday and 6 hours on Sunday simply getting the local environment on my laptop. although it was quite stressful, I learned quite a lot and can see the huge benefits of running a local webserver and I am happy I used vagrant and scotch box. Hopefully now that it is now running, I can spend more time focusing on improving my CMS sites.
 
 
 Week 03:
 
-Learning Activities: Kali Linux Tutorial section 04
+Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and wordpress
 
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners https://aws.amazon.com/lightsail/projects/wordpress/
 
 Estimated Hours: 54 minutes
 
+Content Insights: Linux terminal commands, AWS light sale and wordpress
 
-Content Insights: A LEarning Linux basics  mostly Admin features and tools
-
-Career/Employability/Learning Insights: Linux is used alot in the inductry and it will be good to have the basics
-
-
+Career/Employability/Learning Insights: Linux is used alot in the industry and something I have not used before, I am enjoying the learning process and I am also implementing what I am learning on my local linux webserver. I had issues with the way that I backed up my previous wordpress site, unfortunelty I lost a lot of content as my old hosting service is no loger available and had to re do a lot of it. Lesson learned alway check the back up exspecially before deleting the origional 
 
 Week 04:
 
-Learning Activities: This week I am setting up my Kali linux enviroment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux"
-Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners
+Learning Activities: This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time expeimenting with USB webserver and XAMMP
+
+Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners, https://www.apachefriends.org/index.html https://www.usbwebserver.net/webserver/
+
 Estimated Hours:1.5 hours
-Content Insights: Lali linux is well used accross the industry and the hacking tools and conecpts will be a great toolset for me to add 
-Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry
+
+Content Insights: Setting up the kali linux environment gives me more experience with virtual machines the and linux environment. It was dun using the usb webserver but I feel XAMMP was the better product to use for what I want to achieve.
+
+Career/Employability/Learning Insights: Virtual machines and the linux OS are widely used, I enjoyed watching the videos and implementing what I learned. 
+
 
 Week 05
 
-Learning Activities: I am following up on last week setting up my test enviroment with KAli etc. (I underestimated how long it would take(3 hours last week))
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners
+Learning Activities: I am following up on last week setting up my test environment with Kali etc. (I underestimated how long it would take(3 hours last week)). I carried out a lot of work on my local deployment watching various videos and choosing XAMPP
+
+Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners, https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/, https://themeisle.com/blog/install-xampp-and-wordpress-locally/
+
 Estimated Hours: 2 hours
-Content Insights: Lali linux is well used accross the industry and the hacking tools and conecpts will be a great toolset for me to add 
-Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry
 
-Week 06
-Learning Activities: installing 'metasploitable' and learning how to use kali against it.
-Resources/Links:udemy.com/course/kali-Linux-tutorial-for-beginners
-Estimated Hours: 1 hour
-Content Insights: metasploitable is a os which is left vulnerable and open to be hacked using the tools on kali linux
-Career/Employability/Learning Insights: I am looking in to doing a masters in cyber security and would like to work in that industry 
+Content Insights: I had some issues with setting up metasploitable which I finally overcame, I can feel my linux commands improving and I feel my confidence growing using linux terminal. I managed to set up XAMPP and word press very easily and enjoyed the easy process. 
 
-Template
+Career/Employability/Learning Insights: Setting up local development deployments and using linux terminal confidently will greatly help me in future roles
+
+
+
+
+
 Week: 09
 
 Learning Activities:  I watched a lot of videos in regards to php and decided to create my own log in system with sql lite. I had to teach myself PHP as I never used it before.
