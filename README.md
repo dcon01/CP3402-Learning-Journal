@@ -74,7 +74,12 @@ Estimated Hours:1.5 hours
 
 # Week: 05
 **Learning Activities:** Wordpress child theme and Kali linux test environment metasploitable
-**Resources/Links:** [metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) [Kali](udemy.com/course/kali-Linux-tutorial-for-beginners) [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/) [Child Theme](https://blog.hubspot.com/website/wordpress-create-child-theme)
+
+**Resources/Links:** 
+* [metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) 
+* [Kali](udemy.com/course/kali-Linux-tutorial-for-beginners) 
+* [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/) 
+* [Child Theme](https://blog.hubspot.com/website/wordpress-create-child-theme)
 
 **Estimated Hours:** 4 hours
 
