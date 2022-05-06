@@ -63,19 +63,8 @@ Content Insights: Setting up the kali linux environment gives me more experience
 Career/Employability/Learning Insights: Virtual machines and the linux OS are widely used, I enjoyed watching the videos and implementing what I learned. I enjoyed reading the tutorial  on XAMMP and wordpress it made setting up  the local development environment a breeze.
 
 
-#Week 05
 
-Learning Activities: I am following up on last week setting up my test environment with Kali etc. i am also working on Child themes for word press and I have been reviewing some documentation
-
-Resources/Links: , ,  
-
-Estimated Hours: 2 hours
-
-Content Insights: I had some issues with setting up metasploitable which I finally overcame, I can feel my linux commands improving and I feel my confidence growing using linux terminal. I played around with alot of CSS elements that I had not known about before.
-
-Career/Employability/Learning Insights:I quite enjoyed modifying the .css from inside the browser, trying new things anmd watcing the outcomes.
-
-#Week: 05
+# Week: 05
 **Learning Activities: Wordpress child theme and Kali linux test environment metasploitable
 **Resources/Links:** [metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) [Kali](udemy.com/course/kali-Linux-tutorial-for-beginners) [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/) [Child Theme](https://blog.hubspot.com/website/wordpress-create-child-theme)
 
@@ -86,7 +75,7 @@ Career/Employability/Learning Insights:I quite enjoyed modifying the .css from i
 **Career/Employability/Learning Insights: Wordpress themes and child themes are used alot in the industry and although I don't see myself ever having a full time role working with wordpress perhaps it might be a decent side gig.
 
 
-#Week: 06
+# Week: 06
 **Learning Activities: **
 **Resources/Links:**
 **Estimated Hours: **
@@ -96,7 +85,7 @@ Career/Employability/Learning Insights:I quite enjoyed modifying the .css from i
 
 
 
-#Week: 07
+# Week: 07
 **Learning Activities:** PHP
 
 **Resources/Links:** [PHP](https://www.simplilearn.com/tutorials/php-tutorial/php-login-form) [PHP % SQL](https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.) [PHP manual](https://www.php.net/manual/en/index.php)
@@ -109,7 +98,7 @@ Career/Employability/Learning Insights:I quite enjoyed modifying the .css from i
 
 
 
-#Week: 08
+# Week: 08
 **Learning Activities: **
 **Resources/Links:**
 **Estimated Hours: **
@@ -118,7 +107,7 @@ Career/Employability/Learning Insights:I quite enjoyed modifying the .css from i
 
 
 
-#Week: 09 
+# Week: 09 
 
 Learning Activities: SASS - To familiarise myself more with SASS I watched  videos and read websites, while working along on my own website.
 
@@ -133,7 +122,7 @@ Career/Employability/Learning Insights: At first I could not see the benefit of 
  
 
 
-#Week: 10
+# Week: 10
 **Learning Activities: **
 **Resources/Links:**
 **Estimated Hours: **
@@ -143,22 +132,13 @@ Career/Employability/Learning Insights: At first I could not see the benefit of 
 
 
 
-#Week: 11
+# Week: 11
 **Learning Activities: **
 **Resources/Links:**
 **Estimated Hours: **
 **Content Insights: **
 **Career/Employability/Learning Insights: **
 
-
-template
-
-#Week: 11
-**Learning Activities:**
-**Resources/Links:** [udemy](https://www.udemy.com/course/ethical-hacker/ )
-**Estimated Hours: **
-**Content Insights: **
-**Career/Employability/Learning Insights: **
 
 
 
