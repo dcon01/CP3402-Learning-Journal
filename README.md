@@ -2,7 +2,7 @@
 
 
 
-#Week: 01
+# Week: 01
 
 Learning Activities: Kali Linux Tutorial section 01 - 03
 
@@ -19,7 +19,7 @@ Other: I picked a dog walking startup in hopes I maybe can make a website \ serv
 
 
 
-#Week: 02
+# Week: 02
 
 Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and joomla 
 
@@ -36,7 +36,7 @@ Other: vagrant / Scotchbox / ngrok research, I spent a lot of time fault finding
 
 
 
-#Week 03:
+# Week 03:
 
 Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and wordpress
 
@@ -50,7 +50,7 @@ Career/Employability/Learning Insights: Linux is used alot in the industry and s
 
 
 
-#Week 04:
+# Week 04:
 
 Learning Activities: This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time experimenting with USB webserver and XAMMP and managed to load wordpress on to XAMPP using the my SQL database
 
@@ -61,7 +61,6 @@ Estimated Hours:1.5 hours
 Content Insights: Setting up the kali linux environment gives me more experience with virtual machines and the linux environment. It was dun using the usb webserver but I feel XAMMP was the better product to use for what I want to achieve.
 
 Career/Employability/Learning Insights: Virtual machines and the linux OS are widely used, I enjoyed watching the videos and implementing what I learned. I enjoyed reading the tutorial  on XAMMP and wordpress it made setting up  the local development environment a breeze.
-
 
 
 #Week 05
