@@ -4,7 +4,7 @@
 
 # Week: 01
 
-Learning Activities: Kali Linux Tutorial section 01 - 03
+** Learning Activities: ** Kali Linux Tutorial section 01 - 03
 
 Resources/Links: udemy.com 
 
