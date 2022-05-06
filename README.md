@@ -4,17 +4,17 @@
 
 # Week: 01
 
-** Learning Activities: ** Kali Linux Tutorial section 01 - 03
+**Learning Activities:** Kali Linux Tutorial section 01 - 03
 
-Resources/Links: udemy.com 
+**Resources/Links:** udemy.com 
 
-Estimated Hours: 42 minutes of video time. 30minutes - 1hour of install time for kali
+**Estimated Hours:** 42 minutes of video time. 30minutes - 1hour of install time for kali
 
-Content Insights:  Very basic to begin with - Linux, kali interface, how to manage to packages on Linux, web servers on Linux
+**Content Insights:**  Very basic to begin with - Linux, kali interface, how to manage to packages on Linux, web servers on Linux
 
-Career/Employability/Learning Insights: I have been giving the opportunity with my current employer to install kali on a VM and to carry out some tests on one of our internet facing software packages. I have an interest in cyber security and currently work alongside the team, I am also looking at the possiblity of doing a masters of cyber security.  
+**Career/Employability/Learning Insights:** I have been giving the opportunity with my current employer to install kali on a VM and to carry out some tests on one of our internet facing software packages. I have an interest in cyber security and currently work alongside the team, I am also looking at the possiblity of doing a masters of cyber security.  
 
-Other: I picked a dog walking startup in hopes I maybe can make a website \ service that could possibly make me some extra cash. To host the website I used hostinger. For some reason the broswer on my virtual machine would not navigate to the home page of hostinger although from my labtop I could. After alot of research and fault finding I found that the certificate was not installed. I then had to manually download and install the certifiacte to my virtual machines certifiacte store. 
+**Other:** I picked a dog walking startup in hopes I maybe can make a website \ service that could possibly make me some extra cash. To host the website I used hostinger. For some reason the broswer on my virtual machine would not navigate to the home page of hostinger although from my labtop I could. After alot of research and fault finding I found that the certificate was not installed. I then had to manually download and install the certifiacte to my virtual machines certifiacte store. 
 
 
 
@@ -67,7 +67,7 @@ Career/Employability/Learning Insights: Virtual machines and the linux OS are wi
 
 Learning Activities: I am following up on last week setting up my test environment with Kali etc. i am also working on Child themes for word press and I have been reviewing some documentation
 
-Resources/Links: udemy.com/course/kali-Linux-tutorial-for-beginners, https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/,  https://developer.wordpress.org/themes/advanced-topics/child-themes/
+Resources/Links: , ,  
 
 Estimated Hours: 2 hours
 
@@ -75,69 +75,90 @@ Content Insights: I had some issues with setting up metasploitable which I final
 
 Career/Employability/Learning Insights:I quite enjoyed modifying the .css from inside the browser, trying new things anmd watcing the outcomes.
 
+#Week: 05
+**Learning Activities: Wordpress child theme and Kali linux test environment metasploitable
+**Resources/Links:** [metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) [Kali](udemy.com/course/kali-Linux-tutorial-for-beginners) [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/) [Child Theme](https://blog.hubspot.com/website/wordpress-create-child-theme)
+
+**Estimated Hours: 4 hours
+
+**Content Insights: Child themes are a really beneficial way to customise small portions of a theme and the changes will still exist after the theme is updated. But it still does not give the theme a very unique look or feel. Metasploitable is intentionally left vulnerable and I enjoyed setting it up and running through some basic pen testing techniques and tools
+
+**Career/Employability/Learning Insights: Wordpress themes and child themes are used alot in the industry and although I don't see myself ever having a full time role working with wordpress perhaps it might be a decent side gig.
+
 
 #Week: 06
+**Learning Activities: **
+**Resources/Links:**
+**Estimated Hours: **
+**Content Insights: **
+**Career/Employability/Learning Insights: **
 
-Learning Activities: Group setup
 
-Resources/Links: N/A
-
-Estimated Hours: N/A
-
-Content Insights: N/A
-
-Career/Employability/Learning Insights: N/A
 
 
 #Week: 07
+**Learning Activities:** PHP
 
-Learning Activities: I am new to PHP so I watched read a lot of info in regards to PHP. 
+**Resources/Links:** [PHP](https://www.simplilearn.com/tutorials/php-tutorial/php-login-form) [PHP % SQL](https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.) [PHP manual](https://www.php.net/manual/en/index.php)
 
-Resources/Links: https://www.simplilearn.com/tutorials/php-tutorial/php-login-form https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.
+**Estimated Hours:** 8 hours.
 
-Estimated Hours: 1.5
+**Content Insights:** I love how flexible and easy to learn PHP is. It integrates so well with HTML and I find  it really useful that you can add a PHP script anywhere once it is between the PHP tags. 
 
-Content Insights: I decided to update the advice shop page with a log in system so I had to learn and impliment PHP as I was going as I did not use it before. I enjoyed watching videos and implimenting the system as I go but I did struggle a bit with getting my head around it. 
+**Career/Employability/Learning Insights:** PHP is everywhere in the IT industry, I often see advertisements for PHP developers. It would be great to be confident enough to scan through PHP to see possible security vulnerabilities in the code. 
 
-Career/Employability/Learning Insights: PHP and databases are used widely in the industry I enjoyed learning PHP and would really like to add to this log in system maybe add a menu next
 
 
 #Week: 08
+**Learning Activities: **
+**Resources/Links:**
+**Estimated Hours: **
+**Content Insights: **
+**Career/Employability/Learning Insights: **
 
-Learning Activities: N/A
-
-Resources/Links:N/A
-Estimated Hours: N/A
-Content Insights: N/A
-Career/Employability/Learning Insights: N/A
 
 
 #Week: 09 
 
-Learning Activities: I watched some videos and read websites in regards to SASS, I watched a lot of videos in regards to php and decided to create my own log in system to familiarise myself with PHP a little more while also adding SASS.
+Learning Activities: SASS - To familiarise myself more with SASS I watched  videos and read websites, while working along on my own website.
 
-Resources/Links: https://www.w3schools.com/sass/sass_extend.php https://sass-lang.com/documentation/style-rules/declarations
+Resources/Links: [Sass - Lang](https://sass-lang.com/documentation/style-rules/declarations)  [W3 Schools](https://www.w3schools.com/sass/sass_extend.php)
 
 Estimated Hours: 3.5 hrs
 
-Content Insights: I enjoyed learning and putting what I learned in to the log in system and implimenting  SASS.
+Content Insights: SASS makes my CSS code a lot more readable, having the ability to set variables really helps with the "do not repeat" rule.
 
-Career/Employability/Learning Insights: At first I could not see the benifit of using SASS but as I started to impliment it I could see the benifits and would really like to do it on a larger scale website.
+Career/Employability/Learning Insights: At first I could not see the benefit of using SASS but as I started to implement it I could see the benefits. CSS is everywhere and not going anywhere fast, having at least the very basic skills is a must. I don't ever see myself as a web developer but learning the skills and being able to know the basics and identify the systems is important to me.
+
+ 
+
 
 #Week: 10
-Learning Activities: N/A
-Resources/Links: N/A
-Estimated Hours: N/A
-Content Insights: N/A
-Career/Employability/Learning Insights: N/A
+**Learning Activities: **
+**Resources/Links:**
+**Estimated Hours: **
+**Content Insights: **
+**Career/Employability/Learning Insights: **
+
 
 
 
 #Week: 11
-Learning Activities: N/A
-Resources/Links: N/A
-Estimated Hours: N/A
-Content Insights: N/A
-Career/Employability/Learning Insights: N/A
+**Learning Activities: **
+**Resources/Links:**
+**Estimated Hours: **
+**Content Insights: **
+**Career/Employability/Learning Insights: **
+
+
+template
+
+#Week: 11
+**Learning Activities:**
+**Resources/Links:** [udemy](https://www.udemy.com/course/ethical-hacker/ )
+**Estimated Hours: **
+**Content Insights: **
+**Career/Employability/Learning Insights: **
+
 
 
