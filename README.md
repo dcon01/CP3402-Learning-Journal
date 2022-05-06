@@ -23,7 +23,9 @@
 
 **Learning Activities**: Kali Linux Tutorial section 04, working with AWS lightsale and joomla 
 
-**Resources/Links:** udemy.com/course/kali-Linux-tutorial-for-beginners https://geekflare.com/lightsail-hosting-joomla/ 
+**Resources/Links:** 
+* udemy.com/course/kali-Linux-tutorial-for-beginners 
+* https://geekflare.com/lightsail-hosting-joomla/ 
 
 **Estimated Hours:** 1hours
 
