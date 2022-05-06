@@ -1,8 +1,8 @@
 # CP3406-Learning-Journal
-CP3406 Learning Journal
 
 
-Week: 01
+
+#Week: 01
 
 Learning Activities: Kali Linux Tutorial section 01 - 03
 
@@ -19,7 +19,7 @@ Other: I picked a dog walking startup in hopes I maybe can make a website \ serv
 
 
 
-Week: 02
+#Week: 02
 
 Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and joomla 
 
@@ -34,7 +34,9 @@ Career/Employability/Learning Insights: I've wanted to learn Linux for quite som
 Other: vagrant / Scotchbox / ngrok research, I spent a lot of time fault finding various issues while trying to get my local deployment done. I spent 6 hours on Saturday and 6 hours on Sunday simply getting the local environment on my laptop. although it was quite stressful, I learned quite a lot and can see the huge benefits of running a local webserver and I am happy I used vagrant and scotch box. Hopefully now that it is now running, I can spend more time focusing on improving my CMS sites.
 
 
-Week 03:
+
+
+#Week 03:
 
 Learning Activities: Kali Linux Tutorial section 04, working with AWS lightsale and wordpress
 
@@ -46,7 +48,9 @@ Content Insights: Linux terminal commands, AWS light sale and wordpress
 
 Career/Employability/Learning Insights: Linux is used alot in the industry and something I have not used before, I am enjoying the learning process and I am also implementing what I am learning on my local linux webserver. I had issues with the way that I backed up my previous wordpress site, unfortunelty I lost a lot of content as my old hosting service is no loger available and had to re do a lot of it. Lesson learned alway check the back up exspecially before deleting the origional 
 
-Week 04:
+
+
+#Week 04:
 
 Learning Activities: This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time experimenting with USB webserver and XAMMP and managed to load wordpress on to XAMPP using the my SQL database
 
@@ -60,7 +64,7 @@ Career/Employability/Learning Insights: Virtual machines and the linux OS are wi
 
 
 
-Week 05
+#Week 05
 
 Learning Activities: I am following up on last week setting up my test environment with Kali etc. i am also working on Child themes for word press and I have been reviewing some documentation
 
@@ -73,7 +77,7 @@ Content Insights: I had some issues with setting up metasploitable which I final
 Career/Employability/Learning Insights:I quite enjoyed modifying the .css from inside the browser, trying new things anmd watcing the outcomes.
 
 
-Week: 06
+#Week: 06
 
 Learning Activities: Group setup
 
@@ -85,7 +89,8 @@ Content Insights: N/A
 
 Career/Employability/Learning Insights: N/A
 
-Week: 07
+
+#Week: 07
 
 Learning Activities: I am new to PHP so I watched read a lot of info in regards to PHP. 
 
@@ -98,7 +103,7 @@ Content Insights: I decided to update the advice shop page with a log in system 
 Career/Employability/Learning Insights: PHP and databases are used widely in the industry I enjoyed learning PHP and would really like to add to this log in system maybe add a menu next
 
 
-Week: 08
+#Week: 08
 
 Learning Activities: N/A
 
@@ -108,7 +113,7 @@ Content Insights: N/A
 Career/Employability/Learning Insights: N/A
 
 
-Week: 09 
+#Week: 09 
 
 Learning Activities: I watched some videos and read websites in regards to SASS, I watched a lot of videos in regards to php and decided to create my own log in system to familiarise myself with PHP a little more while also adding SASS.
 
@@ -120,14 +125,16 @@ Content Insights: I enjoyed learning and putting what I learned in to the log in
 
 Career/Employability/Learning Insights: At first I could not see the benifit of using SASS but as I started to impliment it I could see the benifits and would really like to do it on a larger scale website.
 
-Week: 10
+#Week: 10
 Learning Activities: N/A
 Resources/Links: N/A
 Estimated Hours: N/A
 Content Insights: N/A
 Career/Employability/Learning Insights: N/A
 
-Week: 11
+
+
+#Week: 11
 Learning Activities: N/A
 Resources/Links: N/A
 Estimated Hours: N/A
