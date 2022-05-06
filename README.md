@@ -40,7 +40,9 @@
 
 **Learning Activities:** Kali Linux Tutorial section 04, working with AWS lightsale and wordpress
 
-**Resources/Links:** udemy.com/course/kali-Linux-tutorial-for-beginners https://aws.amazon.com/lightsail/projects/wordpress/ 
+**Resources/Links:** 
+* udemy.com/course/kali-Linux-tutorial-for-beginners 
+* https://aws.amazon.com/lightsail/projects/wordpress/ 
 
 **Estimated Hours:** 54 minutes
 
@@ -54,7 +56,11 @@
 
 **Learning Activities:** This week I am setting up my Kali linux environment with a target machine and prepare for Part 3 of my course "Hacking with KAli linux". I spent some time experimenting with USB webserver and XAMMP and managed to load wordpress on to XAMPP using the my SQL database
 
-**Resources/Links**:udemy.com/course/kali-Linux-tutorial-for-beginners, https://www.apachefriends.org/index.html https://www.usbwebserver.net/webserver/ https://themeisle.com/blog/install-xampp-and-wordpress-locally/
+**Resources/Links:** 
+* udemy.com/course/kali-Linux-tutorial-for-beginners, 
+* https://www.apachefriends.org/index.html 
+* https://www.usbwebserver.net/webserver/ 
+* https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
 Estimated Hours:1.5 hours
 
@@ -80,7 +86,6 @@ Estimated Hours:1.5 hours
 **Learning Activities:** Group work
 
 **Resources/Links:** 
-* Bullet list
 * [Trello](https://trello.com/b/rZs47mui/cp3402-team05) 
 * [Slack](https://app.slack.com/client/T0C3E7EP2/G4XDZGNM8/thread/C0K0UUFN2-1649321120.142859) 
 * [Discord](https://discord.gg/gvrfQDEy) 
@@ -100,7 +105,10 @@ Estimated Hours:1.5 hours
 # Week: 07
 **Learning Activities:** PHP
 
-**Resources/Links:** [PHP](https://www.simplilearn.com/tutorials/php-tutorial/php-login-form) [PHP % SQL](https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.) [PHP manual](https://www.php.net/manual/en/index.php)
+**Resources/Links:** 
+* [PHP](https://www.simplilearn.com/tutorials/php-tutorial/php-login-form)
+* [PHP % SQL](https://www.javatpoint.com/php-mysql-login-system#:~:text=To%20run%20the%20login%20form,and%20click%20the%20login%20button.) 
+* [PHP manual](https://www.php.net/manual/en/index.php)
 
 **Estimated Hours:** 8 hours.
 
@@ -123,7 +131,9 @@ Estimated Hours:1.5 hours
 
 Learning Activities: SASS - To familiarise myself more with SASS I watched  videos and read websites, while working along on my own website.
 
-Resources/Links: [Sass - Lang](https://sass-lang.com/documentation/style-rules/declarations)  [W3 Schools](https://www.w3schools.com/sass/sass_extend.php)
+Resources/Links: 
+* [Sass - Lang](https://sass-lang.com/documentation/style-rules/declarations) 
+* [W3 Schools](https://www.w3schools.com/sass/sass_extend.php)
 
 Estimated Hours: 3.5 hrs
 
