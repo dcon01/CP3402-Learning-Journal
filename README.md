@@ -76,16 +76,24 @@ Estimated Hours:1.5 hours
 
 
 # Week: 06
+
 **Learning Activities:** Group work
-**Resources/Links:**  [Trello](https://trello.com/b/rZs47mui/cp3402-team05) [Slack](https://app.slack.com/client/T0C3E7EP2/G4XDZGNM8/thread/C0K0UUFN2-1649321120.142859) [Discord](https://discord.gg/gvrfQDEy) [github](https://github.com/cp3402-students/cp3402-2022-1-site-team05.git) [AWS and Git](https://docs.aws.amazon.com/codecommit/latest/userguide/getting-started.html)
+
+**Resources/Links:** 
+* Bullet list
+* [Trello](https://trello.com/b/rZs47mui/cp3402-team05) 
+* [Slack](https://app.slack.com/client/T0C3E7EP2/G4XDZGNM8/thread/C0K0UUFN2-1649321120.142859) 
+* [Discord](https://discord.gg/gvrfQDEy) 
+* [github](https://github.com/cp3402-students/cp3402-2022-1-site-team05.git) 
+* [AWS and Git](https://docs.aws.amazon.com/codecommit/latest/userguide/getting-started.html)
+
+
 **Estimated Hours:** 3
+
 **Content Insights:** Trello is a great management tool that I have used before and I think it will be very useful. Git is very useful for version control and seems to integrate well with AWS.
 
 **Career/Employability/Learning Insights: Project management and GIT tools are great.** Having skills and experience using Project and time management tools is great for any future and my current role.  They are a must have for productivity in the industry.
  
-
-
-
 
 
 
